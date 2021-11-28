@@ -21,10 +21,10 @@ This project creates a backend for a social media website complete with friends,
 
 ## Usage
 Please see walk through video
-[how to video](./utils/Walkthrough.webm)
+[how to video](https://watch.screencastify.com/v/ADFfnQEGQiIeb96UYyOj)
 
 ## Screenshot
-![ScreenShot](public/images/backend-social-api.png)
+![ScreenShot](./utils/screenshotinsomnia.PNG)
 
 
 ## License
