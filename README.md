@@ -21,7 +21,7 @@ This project creates a backend for a social media website complete with friends,
 
 ## Usage
 Please see walk through video
-[how to video]()
+[how to video](./utils/Walkthrough.webm)
 
 ## Screenshot
 ![ScreenShot](public/images/backend-social-api.png)
